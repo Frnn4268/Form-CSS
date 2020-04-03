@@ -1,0 +1,50 @@
+body {
+    
+    background-color: blanchedalmond;
+}
+
+img{
+    display:block;
+    margin-left: 575px;
+    margin-right: 3px;
+     border: 10px double gray; 
+    }
+
+
+video{
+     display:block;
+     margin:auto;
+     border: 10px double gray;
+    }
+h1{
+    text-align: center;
+    color: red;
+    width: 1750px;
+    font-style: italic;  
+    border: 5px blue double; 
+   
+    }
+h3{
+    color: blue;
+    width: 350px;
+    font-style: italic;
+    text-align: center;
+    }
+
+h4{
+    color: Green;
+    width: 350px;
+    font-style: italic;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: gray;
+    width: center;
+    font-style: initial;   
+}
+.texto-borde {
+    -webkit-text-stroke: 2px black;
+    color: transparent; 
+  }
